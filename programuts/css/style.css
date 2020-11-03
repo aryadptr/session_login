@@ -1,0 +1,47 @@
+body{
+	font-family: sans-serif;
+}
+
+.formLogin{
+	width: 350px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+.formLogin h3{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.login-btn{
+    margin-bottom: 15px;
+}
+
+.alert{
+	background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #b32929;
+}
+
+.formRegistrasi {
+	width: 450px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 30px auto;
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+.formRegistrasi h3{
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.footer{
+	margin-top: 10px;
+}
